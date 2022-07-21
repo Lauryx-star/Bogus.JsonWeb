@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bogus.JsonWebToken", "Bogus.JsonWebToken\Bogus.JsonWebToken.csproj", "{6CE3432A-8073-46A2-87C3-8F5A62323984}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bogus.JsonWebToken", "src\Bogus.JsonWebToken\Bogus.JsonWebToken.csproj", "{6CE3432A-8073-46A2-87C3-8F5A62323984}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
